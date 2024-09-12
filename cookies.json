@@ -1,0 +1,54 @@
+[
+  {
+      "domain": "smarthand.pro",
+      "expirationDate": 1728715705.810385,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "lang",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "en"
+  },
+  {
+      "domain": "smarthand.pro",
+      "expirationDate": 1728482260.648574,
+      "hostOnly": true,
+      "httpOnly": true,
+      "name": "PHPSESSID",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "dv4ehh7m2vro1j6q2qecnrk3ja"
+  },
+  {
+      "domain": "smarthand.pro",
+      "expirationDate": 1728482422.588282,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "template",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "default"
+  },
+  {
+      "domain": "smarthand.pro",
+      "expirationDate": 1728715705,
+      "hostOnly": true,
+      "httpOnly": false,
+      "name": "theme",
+      "path": "/",
+      "sameSite": "unspecified",
+      "secure": false,
+      "session": false,
+      "storeId": "0",
+      "value": "dark"
+  }
+]
